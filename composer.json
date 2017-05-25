@@ -15,7 +15,7 @@
 	},
 	"autoload":{
 		"psr-4":{
-			"Vicleos\\ZGTools":"src"
+			"Vicleos\\ZGTools\\":"src"
 		}
 	}
 }
