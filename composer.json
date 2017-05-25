@@ -1,0 +1,21 @@
+{
+	"name": "vicleos/zgtools",
+	"description": "ZHIGUO.ME 开发工具包，此乃重剑一把！",
+	"license": "MIT",
+	"keywords":["tools","ZHIGUO","zhiguome","重剑"],
+	"authors":[
+		{
+			"name":"Vicleos",
+			"email":"510331882@qq.com"
+		}
+	],
+	"require":{},
+	"require-dev":{
+		"phpunit/phpunit": "4.0.*"
+	},
+	"autoload":{
+		"psr-4":{
+			"Vicleos\\ZGTools":"src"
+		}
+	}
+}
